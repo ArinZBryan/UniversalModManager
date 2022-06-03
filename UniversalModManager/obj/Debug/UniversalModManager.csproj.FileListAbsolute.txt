@@ -1,0 +1,11 @@
+C:\Users\arinb\Documents\GitHub\UniversalModManager\UniversalModManager\bin\Debug\UniversalModManager.exe.config
+C:\Users\arinb\Documents\GitHub\UniversalModManager\UniversalModManager\bin\Debug\UniversalModManager.exe
+C:\Users\arinb\Documents\GitHub\UniversalModManager\UniversalModManager\bin\Debug\UniversalModManager.pdb
+C:\Users\arinb\Documents\GitHub\UniversalModManager\UniversalModManager\obj\Debug\UniversalModManager.csproj.AssemblyReference.cache
+C:\Users\arinb\Documents\GitHub\UniversalModManager\UniversalModManager\obj\Debug\UniversalModManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\arinb\Documents\GitHub\UniversalModManager\UniversalModManager\obj\Debug\UniversalModManager.Form1.resources
+C:\Users\arinb\Documents\GitHub\UniversalModManager\UniversalModManager\obj\Debug\UniversalModManager.Properties.Resources.resources
+C:\Users\arinb\Documents\GitHub\UniversalModManager\UniversalModManager\obj\Debug\UniversalModManager.csproj.GenerateResource.cache
+C:\Users\arinb\Documents\GitHub\UniversalModManager\UniversalModManager\obj\Debug\UniversalModManager.csproj.CoreCompileInputs.cache
+C:\Users\arinb\Documents\GitHub\UniversalModManager\UniversalModManager\obj\Debug\UniversalModManager.exe
+C:\Users\arinb\Documents\GitHub\UniversalModManager\UniversalModManager\obj\Debug\UniversalModManager.pdb
