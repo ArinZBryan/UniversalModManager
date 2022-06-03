@@ -1,0 +1,34 @@
+[
+  {
+    "game": {
+      "name": "exampleGame1",
+      "path": "C:\\Users\\arinb\\Documents\\GitHub\\UniversalModManager\\ExampleGame1",
+      "mods": [
+        {
+          "name": "exampleMod1a",
+          "path": "C:\\Users\\arinb\\Documents\\GitHub\\UniversalModManager\\ExampleGame1\\MODS"
+        },
+        {
+          "name": "exampleMod1b",
+          "path": "C:\\Users\\arinb\\Documents\\GitHub\\UniversalModManager\\ExampleGame1\\MODS"
+        }
+      ]
+    }
+  },
+  {
+    "game": {
+      "name": "exampleGame2",
+      "path": "C:\\Users\\arinb\\Documents\\GitHub\\UniversalModManager\\ExampleGame2",
+      "mods": [
+        {
+          "name": "exampleMod2a",
+          "path": "C:\\Users\\arinb\\Documents\\GitHub\\UniversalModManager\\ExampleGame2\\MODS"
+        },
+        {
+          "name": "exampleMod2b",
+          "path": "C:\\Users\\arinb\\Documents\\GitHub\\UniversalModManager\\ExampleGame2\\MODS"
+        }
+      ]
+    }
+  }
+]
