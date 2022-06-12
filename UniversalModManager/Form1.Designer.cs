@@ -38,7 +38,6 @@
             this.deleteGameButton = new System.Windows.Forms.Button();
             this.deleteModPopup = new System.Windows.Forms.HelpProvider();
             this.deleteGamePopup = new System.Windows.Forms.HelpProvider();
-            this.setModArchiveButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // browseForFolderPopup
@@ -118,22 +117,11 @@
             this.deleteGameButton.UseVisualStyleBackColor = true;
             this.deleteGameButton.Click += new System.EventHandler(this.deleteGameButton_Click);
             // 
-            // setModArchiveButton
-            // 
-            this.setModArchiveButton.Location = new System.Drawing.Point(12, 503);
-            this.setModArchiveButton.Name = "setModArchiveButton";
-            this.setModArchiveButton.Size = new System.Drawing.Size(113, 45);
-            this.setModArchiveButton.TabIndex = 7;
-            this.setModArchiveButton.Text = "Set Mod Archive Path";
-            this.setModArchiveButton.UseVisualStyleBackColor = true;
-            this.setModArchiveButton.Click += new System.EventHandler(this.setModArchiveButton_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(504, 560);
-            this.Controls.Add(this.setModArchiveButton);
             this.Controls.Add(this.deleteGameButton);
             this.Controls.Add(this.deleteModButton);
             this.Controls.Add(this.importModButton);
@@ -160,7 +148,6 @@
         private System.Windows.Forms.Button deleteGameButton;
         private System.Windows.Forms.HelpProvider deleteModPopup;
         private System.Windows.Forms.HelpProvider deleteGamePopup;
-        private System.Windows.Forms.Button setModArchiveButton;
     }
 }
 

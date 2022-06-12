@@ -14,21 +14,5 @@
         }
       ]
     }
-  },
-  {
-    "game": {
-      "name": "exampleGame2",
-      "path": "C:\\Users\\arinb\\Documents\\GitHub\\UniversalModManager\\ExampleGame2",
-      "mods": [
-        {
-          "name": "exampleMod2a",
-          "path": "C:\\Users\\arinb\\Documents\\GitHub\\UniversalModManager\\ExampleGame2\\MODS"
-        },
-        {
-          "name": "exampleMod2b",
-          "path": "C:\\Users\\arinb\\Documents\\GitHub\\UniversalModManager\\ExampleGame2\\MODS"
-        }
-      ]
-    }
   }
 ]
